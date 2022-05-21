@@ -1,0 +1,27 @@
+body {
+    margin: 0%;
+}
+
+/* THIS IS THE HEADER SECTION */
+
+#header-info-container {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#header-link-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header-title {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+.header-link {
+    text-decoration: none;
+    color: #E5E7EB;
+}
